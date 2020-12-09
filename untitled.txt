@@ -1,0 +1,43 @@
+Basic Column Definition
+
+SPK-ID: Object primary SPK-ID
+Object ID: Object internal database ID
+Object fullname: Object full name/designation
+pdes: Object primary designation
+name: Object IAU name
+NEO: Near-Earth Object (NEO) flag
+PHA: Potentially Hazardous Asteroid (PHA) flag
+H: Absolute magnitude parameter
+Diameter: object diameter (from equivalent sphere) km Unit
+Albedo: Geometric albedo
+Diameter_sigma: 1-sigma uncertainty in object diameter km Unit
+Orbit_id: Orbit solution ID
+Epoch: Epoch of osculation in modified Julian day form
+Equinox: Equinox of reference frame
+e: Eccentricity
+a: Semi-major axis au Unit
+q: perihelion distance au Unit
+i: inclination; angle with respect to x-y ecliptic plane
+tp: Time of perihelion passage TDB Unit
+moid_ld: Earth Minimum Orbit Intersection Distance au Unit
+
+SPK-ID: Об'єкт основний SPK-ID
+Object ID: Ідентифікатор внутрішньої бази даних об’єкта
+Object fullname: Повне ім’я / позначення об’єкта
+pdes: Первинне позначення об’єкта
+name: Назва об'єкта IAU
+NEO: навколоземний об'єкт (NEO)
+PHA: Потенційно небезпечний астероїд (PHA)
+H: Параметр абсолютної величини
+Diameter: діаметр об'єкта (від еквівалентної сфери) км
+Albedo: геометричне альбедо
+Diameter_sigma: 1-сигма невизначеність в діаметрі об'єкта км
+Orbit_id: ідентифікатор рішення орбіти
+Epoch: Епоха коливань у модифікованій формі дня Юліана
+Equinox: Рівнодення реперної системи
+e: ексцентричність
+a: напівголова вісь au
+q: відстань перигелію au
+i: нахил; кут відносно x-y площини екліптики
+tp: Час проходження перигелію TDB
+moid_ld: Мінімальна відстань перетину орбіти Землі au
